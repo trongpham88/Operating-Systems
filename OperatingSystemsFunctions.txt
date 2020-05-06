@@ -1,0 +1,3 @@
+Windows is a series of operating systems developed by Microsoft.
+Each version of Windows includes a graphical user interface, with a desktop that allows users to view files and folders in windows. 
+For the past two decades, Windows has been the most widely used operating system for personal computers PCs.
