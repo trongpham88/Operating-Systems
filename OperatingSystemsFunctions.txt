@@ -4,3 +4,6 @@ For the past two decades, Windows has been the most widely used operating system
 Microsoft Windows is designed for both home computing and professional purposes.
 Past versions of Windows home editions include Windows 3.0 (1990), Windows 3.1 (1992), Windows 95 (1995), Windows 98 (1998), Windows Me (2000), Windows XP (2001), and Windows Vista (2006)
 The current version, Windows 7, was released in 2009.
+Windows is designed to run on standard x86 hardware, such as Intel and AMD processors.
+Therefore, it can be installed on multiple brands of hardware, such as Dell, HP, and Sony computers, as well as home-built PCs
+Windows 7 also includes several touchscreen features, that allow the operating system to run on certain tablets and computers with touchscreen displays. Microsoft's mobile operating system, Windows Phone, is designed specifically for smartphones and runs on several brands of phones, including HTC, Nokia, and Samsung.
