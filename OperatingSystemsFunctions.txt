@@ -1,3 +1,6 @@
 Windows is a series of operating systems developed by Microsoft.
 Each version of Windows includes a graphical user interface, with a desktop that allows users to view files and folders in windows. 
 For the past two decades, Windows has been the most widely used operating system for personal computers PCs.
+Microsoft Windows is designed for both home computing and professional purposes.
+Past versions of Windows home editions include Windows 3.0 (1990), Windows 3.1 (1992), Windows 95 (1995), Windows 98 (1998), Windows Me (2000), Windows XP (2001), and Windows Vista (2006)
+The current version, Windows 7, was released in 2009.
